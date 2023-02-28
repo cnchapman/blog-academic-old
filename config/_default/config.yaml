@@ -4,8 +4,8 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://chapman-blog.netlify.app/' # Website URL
+title: Quant UX Blog # Website name
+baseURL: 'https://cnchapman.org/' # Website URL
 
 ############################
 ## LANGUAGE

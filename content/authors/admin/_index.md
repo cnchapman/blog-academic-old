@@ -51,10 +51,10 @@ superuser: yes
 bio: 
 ---
 
-Chris Chapman is the Founder of the Quantitative User Experience Association, 
-the Quant UX Conference, and a Principal Researcher at Amazon Lab126 (2022-).
-Previously he was a Staff Researcher at Google (2012-2022) and a Senior Researcher
-at Microsoft (2000-2011). Chris is the author of several books on research methods
-and programming, including Quantitative User Experience Research and R for 
-Marketing Research and Analytics.
+Chris is the Founder of the Quantitative User Experience Association 
+and a Principal UX Researcher at Amazon Lab 126.
+Previously he was a Staff Researcher at Google and a Senior Researcher
+at Microsoft. Chris is the author of several books on research methods
+and programming, including "Quantitative User Experience Research" (forthcoming 2023) 
+and "R for Marketing Research and Analytics" (2nd ed., 2019).
 {style="text-align: justify;"}
