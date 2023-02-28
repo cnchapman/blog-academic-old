@@ -22,34 +22,33 @@ organizations:
   url: https://www.quantuxbook.com
 - name: Author, R for Marketing Research and Analytics
   url: "https://r-marketing.r-forge.r-project.org/"
-role: Principal UX Researcher
+role: Principal UX Researcher, Quant & R Author
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: yes
-  icon: twitter
+  icon: mastodon
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  label: Follow me on Mastodon
+  link: https://mastodon.social/@cnchapman
 - icon: "graduation-cap"
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=-4YcL7YAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/cnchapman
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/cnchapman/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: yes
-bio: Author/coauthor of "R for Marketing Research and Analytics", "Quantitative User
-  Experience Research", and "Python for Marketing Research and Analytics."
+bio: 
 ---
 
 Chris Chapman is the Founder of the Quantitative User Experience Association, 
