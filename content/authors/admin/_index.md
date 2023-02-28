@@ -1,5 +1,5 @@
 ---
-title: "Chris Chapman"
+title: "Under construction -- blog for Chris Chapman"
 education:
   courses:
   - course: PhD, Clinical Psychology
