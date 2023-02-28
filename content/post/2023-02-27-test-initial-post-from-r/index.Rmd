@@ -19,10 +19,7 @@ projects: []
 
 Testing
 
-
-```r
+```{r}
 x <- rnorm(100)
 plot(sort(x))
 ```
-
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
